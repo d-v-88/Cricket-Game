@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ccffcc;
+}
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  margin-left: 10px;
+}
+.button-reset {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-button {
+  height: 90px;
+  width: 90px;
+  border: none;
+  cursor: pointer;
+  background-color: #9ee89e;
+  border-radius: 50px;
+}
+.image-button:hover {
+  background-color: rgb(172, 169, 169);
+}
+.choice-image {
+  height: 80px;
+}
+
+.reset-button {
+  border: none;
+  background-color: rgb(217, 74, 74);
+  cursor: pointer;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.reset-button:hover {
+  background-color: rgba(217, 74, 74, 0.771);
+}
