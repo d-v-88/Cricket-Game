@@ -34,6 +34,13 @@ Stump beats Bat
 
 *If both choose the same, it's a tie.*
 
+One can play as many games as they want and can also reset the score.
+
+## 🔗 Live Demo
+
+Play the game here: [Click to Play](https://cricket-game-liard.vercel.app/)
+
+
 
 
 
