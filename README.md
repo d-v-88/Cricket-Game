@@ -17,13 +17,19 @@ Score tracking
 # 🎮 How to Play
 
 *You and the computer both choose between:*
+
 Bat
+
 Ball
+
 Stump
 
 *Rules:*
+
 Bat beats Ball
+
 Ball beats Stump
+
 Stump beats Bat
 
 *If both choose the same, it's a tie.*
